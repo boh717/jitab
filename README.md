@@ -1,3 +1,7 @@
+⚠️ This project is **deprecated**. It was a first attempt to integrate GitLab and Jira levearing Python (and experimenting with `mypy`) ⚠️
+
+Refer to https://github.com/boh717/jitlab for an updated version of this.
+
 ## Configuration Prerequisites
 
 To use jitab you need three things:
